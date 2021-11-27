@@ -16,7 +16,7 @@ import com.example.bdsqllite.entidades.usuario;
 import com.example.bdsqllite.utilidades.Utilidades;
 
 import java.util.ArrayList;
-
+//Spinner
 public class ConsultarUsuariosSpinner extends AppCompatActivity {
     Spinner spinnerPersonas;
     TextView txtNombre, txtID, txtTelefono;

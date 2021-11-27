@@ -1,5 +1,5 @@
 package com.example.bdsqllite.entidades;
-
+//USER CLASS
 public class usuario {
 
     private Integer id;
